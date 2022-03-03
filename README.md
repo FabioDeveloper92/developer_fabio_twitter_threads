@@ -6,6 +6,8 @@ An archive to gather all my threads through out my journey on twitter. Great pie
 
 # SQL
 
+Sql is one of those skills that I studied right away, and that I have cultivated over the years.
+
 | Category     | Title      | Link     |
 | ------------- | ------------- | -------- |
 |     SQL      |    Acid Properties      |  https://twitter.com/developer_fabio/status/1459863482250285059 |
@@ -25,11 +27,15 @@ An archive to gather all my threads through out my journey on twitter. Great pie
 
 # GoF Design Patterns
 
+I think design patterns are a common vocabulary for talking about software solutions. A book that inspired me isThe Gang of Four Design Patterns.
+
 | Category | Title | Link |
 | ------------- | ------------- | -------- |
-| GoF |Abstract Factory | https://twitter.com/developer_fabio/status/1496528493466853393 |# CSharp
+| GoF |Abstract Factory | https://twitter.com/developer_fabio/status/1496528493466853393 |
 
 # C Sharp
+
+I have been working with C # for some years now, I have always tried to deepen it to better understand how it works.
 
 | Category     | Title      | Link     |
 | ------------- | ------------- | -------- |
@@ -41,12 +47,16 @@ An archive to gather all my threads through out my journey on twitter. Great pie
 
 # Software Engineering
 
+Challenges are very important in the life of a programmer, and thinking I can take a low quality project to the next level excites me.
+
 | Category | Title | Link |
 | ------------- | ------------- | -------- |
 | SO | Dependency Injection |	https://twitter.com/developer_fabio/status/1463564534103351299 |
 | SO  | Dependency Injection Lifetime |	https://twitter.com/developer_fabio/status/1499062052446519303 |
 
 # Programming Principles
+
+Some of the design principles that have helped me to better understand the coding world (sometimes, also the real world).
 
 | Category | Title | Link |
 | ------------- | ------------- | -------- |
