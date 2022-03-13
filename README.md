@@ -12,8 +12,9 @@ Sql is one of those skills that I studied right away, and that I have cultivated
 | ------------- | ------------- | -------- |
 |     SQL      |    Acid Properties      |  https://twitter.com/developer_fabio/status/1459863482250285059 |
 |     SQL      |    Array table     | https://twitter.com/developer_fabio/status/1487755952816373766  |
-|SQL| DBMS vs RDBMS | https://twitter.com/developer_fabio/status/1459500349081931784
-|      SQL     |    Non-Clustered Indexes      |  https://twitter.com/developer_fabio/status/1497912211376857092 |
+|SQL| DBMS vs RDBMS | https://twitter.com/developer_fabio/status/1459500349081931784 |
+| SQL | Clustered Index | https://twitter.com/developer_fabio/status/1502983419776708611 |
+|      SQL     |    Non-Clustered Index      |  https://twitter.com/developer_fabio/status/1497912211376857092 |
 |      SQL     |    Indexing Work      |  https://twitter.com/developer_fabio/status/1492842355862511619 |
 | SQL | Locking Intro |https://twitter.com/developer_fabio/status/1472558868274331651
 |     SQL      |    Lookup Table      | https://twitter.com/developer_fabio/status/1485238789761032194  |
