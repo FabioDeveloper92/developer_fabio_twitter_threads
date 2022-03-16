@@ -33,6 +33,7 @@ I think design patterns are a common vocabulary for talking about software solut
 | Category | Title | Link |
 | ------------- | ------------- | -------- |
 | GoF |Abstract Factory | https://twitter.com/developer_fabio/status/1496528493466853393 |
+| GoF | Factory Method | https://twitter.com/developer_fabio/status/1504135125734510598 |
 
 # C Sharp
 
