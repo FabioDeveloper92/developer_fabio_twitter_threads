@@ -25,6 +25,7 @@ Sql is one of those skills that I studied right away, and that I have cultivated
 | SQL | Star Schema | https://twitter.com/developer_fabio/status/1477619017393262592 |
 | SQL | Versioning Pattern | https://twitter.com/developer_fabio/status/1490288449873747979|
 | SQL | Transaction Log | https://twitter.com/developer_fabio/status/1495372105004818432 |
+| SQL | Transaction Log (Simple Recovery Type) | https://twitter.com/developer_fabio/status/1505514653958475781 |
 
 # GoF Design Patterns
 
