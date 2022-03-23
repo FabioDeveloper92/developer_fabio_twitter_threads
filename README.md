@@ -54,9 +54,10 @@ Challenges are very important in the life of a programmer, and thinking I can ta
 
 | Category | Title | Link |
 | ------------- | ------------- | -------- |
+| Performance | Benchmark in .NET | https://twitter.com/developer_fabio/status/1501596804848181253|
 | Technique | Dependency Injection |	https://twitter.com/developer_fabio/status/1463564534103351299 |
 | Technique  | Dependency Injection Lifetime |	https://twitter.com/developer_fabio/status/1499062052446519303 |
-| Performance | Benchmark in .NET | https://twitter.com/developer_fabio/status/1501596804848181253|
+| TDD | Introduction TDD | https://twitter.com/developer_fabio/status/1506663239756701698 |
 
 # Programming Principles
 
