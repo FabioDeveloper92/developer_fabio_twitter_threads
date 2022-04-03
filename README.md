@@ -25,6 +25,7 @@ Sql is one of those skills that I studied right away, and that I have cultivated
 |     Pattern      |    Lookup Table      | https://twitter.com/developer_fabio/status/1485238789761032194  |
 | Pattern | Star Schema | https://twitter.com/developer_fabio/status/1477619017393262592 |
 | Pattern | Versioning Pattern | https://twitter.com/developer_fabio/status/1490288449873747979|
+| Replication | SQL Replication Introduction | https://twitter.com/developer_fabio/status/1510563787153321985 |
 | Transaction Log | Transaction Log | https://twitter.com/developer_fabio/status/1495372105004818432 |
 | Transaction Log | Transaction Log (Simple Recovery Type) | https://twitter.com/developer_fabio/status/1505514653958475781 |
 
