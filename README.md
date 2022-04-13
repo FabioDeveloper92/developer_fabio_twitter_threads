@@ -80,4 +80,6 @@ Some of the design principles that have helped me to better understand the codin
 
 # Experience
 
-Coming Soon
+| Category | Title | Link |
+| ------------- | ------------- | -------- |
+| Personal growth | Developers vs Shyness	| https://twitter.com/developer_fabio/status/1514257490577395713 |
