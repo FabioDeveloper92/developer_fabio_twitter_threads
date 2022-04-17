@@ -20,7 +20,7 @@ Sql is one of those skills that I studied right away, and that I have cultivated
 |      Index     |    Non-Clustered Index      |  https://twitter.com/developer_fabio/status/1497912211376857092 |
 |      Index     |    Indexing Work      |  https://twitter.com/developer_fabio/status/1492842355862511619 |
 | Index | Index Fragmentation | https://twitter.com/developer_fabio/status/1464932286584008713 |
-|Intermediate|SQL Pivot Table|https://twitter.com/developer_fabio/status/1513107364819394563|
+|Intermediate| SQL Pivot Table|https://twitter.com/developer_fabio/status/1513107364819394563|
 | Locking | Locking Intro |https://twitter.com/developer_fabio/status/1472558868274331651 |
 |     Pattern      |    Array table     | https://twitter.com/developer_fabio/status/1487755952816373766  |
 |     Pattern      |    Lookup Table      | https://twitter.com/developer_fabio/status/1485238789761032194  |
@@ -28,7 +28,8 @@ Sql is one of those skills that I studied right away, and that I have cultivated
 | Pattern | Versioning Pattern | https://twitter.com/developer_fabio/status/1490288449873747979|
 | Replication | SQL Replication Introduction | https://twitter.com/developer_fabio/status/1510563787153321985 |
 | Transaction Log | Transaction Log | https://twitter.com/developer_fabio/status/1495372105004818432 |
-| Transaction Log | Transaction Log (Simple Recovery Type) | https://twitter.com/developer_fabio/status/1505514653958475781 |
+| Transaction Log | Simple Recovery Type | https://twitter.com/developer_fabio/status/1505514653958475781 |
+| Transaction Log | Full Recovery Type | https://twitter.com/developer_fabio/status/1515664324848664577 |
 
 # GoF Design Patterns
 
