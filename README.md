@@ -22,6 +22,7 @@ Sql is one of those skills that I studied right away, and that I have cultivated
 | Index | Index Fragmentation | https://twitter.com/developer_fabio/status/1464932286584008713 |
 |Intermediate| SQL Pivot Table|https://twitter.com/developer_fabio/status/1513107364819394563|
 | Locking | Locking Intro |https://twitter.com/developer_fabio/status/1472558868274331651 |
+| Locking | SQL Intent Lock | https://twitter.com/developer_fabio/status/1520720264123850754 |
 |     Pattern      |    Array table     | https://twitter.com/developer_fabio/status/1487755952816373766  |
 |     Pattern      |    Lookup Table      | https://twitter.com/developer_fabio/status/1485238789761032194  |
 | Pattern | Star Schema | https://twitter.com/developer_fabio/status/1477619017393262592 |
