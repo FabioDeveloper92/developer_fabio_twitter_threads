@@ -16,6 +16,7 @@ Sql is one of those skills that I studied right away, and that I have cultivated
 |Basic | Normalization | https://twitter.com/developer_fabio/status/1462328805129916423 |
 |Basic | Relationships | https://twitter.com/developer_fabio/status/1464593549807300617 |
 |Basic | Sql Commands | https://twitter.com/developer_fabio/status/1508027802972524554 |
+|Advanced | SQL OLAP Intro | https://twitter.com/developer_fabio/status/1523253703842492417 |
 | Index | Clustered Index | https://twitter.com/developer_fabio/status/1502983419776708611 |
 |      Index     |    Non-Clustered Index      |  https://twitter.com/developer_fabio/status/1497912211376857092 |
 |      Index     |    Indexing Work      |  https://twitter.com/developer_fabio/status/1492842355862511619 |
