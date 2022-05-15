@@ -30,6 +30,7 @@ Sql is one of those skills that I studied right away, and that I have cultivated
 | Pattern | Versioning Pattern | https://twitter.com/developer_fabio/status/1490288449873747979|
 | Replication | SQL Replication Introduction | https://twitter.com/developer_fabio/status/1510563787153321985 |
 | Replication | SQL Replication Components | https://twitter.com/developer_fabio/status/1518188404944650240 |
+| Replication | SQL Transactional Replication | https://twitter.com/developer_fabio/status/1525797102965739520 |
 | Transaction Log | Transaction Log | https://twitter.com/developer_fabio/status/1495372105004818432 |
 | Transaction Log | Simple Recovery Type | https://twitter.com/developer_fabio/status/1505514653958475781 |
 | Transaction Log | Full Recovery Type | https://twitter.com/developer_fabio/status/1515664324848664577 |
