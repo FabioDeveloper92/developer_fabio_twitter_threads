@@ -67,6 +67,7 @@ Challenges are very important in the life of a programmer, and thinking I can ta
 | Dependency Injection | Dependency Injection |	https://twitter.com/developer_fabio/status/1463564534103351299 |
 | Dependency Injection  | Dependency Injection Lifetime |	https://twitter.com/developer_fabio/status/1499062052446519303 |
 | Migration | FluentMigrator Framework | https://twitter.com/developer_fabio/status/1519331675364278272 |
+| Migration | FluentMigration More Features | https://twitter.com/developer_fabio/status/1526229477021433860 |
 | Performance | Benchmark in .NET | https://twitter.com/developer_fabio/status/1501596804848181253|
 | Testing | Introduction TDD | https://twitter.com/developer_fabio/status/1506663239756701698 |
 | Testing | Testing with Mock | https://twitter.com/developer_fabio/status/1509191858714517513 |
