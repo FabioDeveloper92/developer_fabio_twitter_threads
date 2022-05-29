@@ -35,6 +35,7 @@ Sql is one of those skills that I studied right away, and that I have cultivated
 | Transaction Log | Transaction Log | https://twitter.com/developer_fabio/status/1495372105004818432 |
 | Transaction Log | Simple Recovery Type | https://twitter.com/developer_fabio/status/1505514653958475781 |
 | Transaction Log | Full Recovery Type | https://twitter.com/developer_fabio/status/1515664324848664577 |
+| Transaction Log | Bulk Recovery Type | https://twitter.com/developer_fabio/status/1530874489554206721 |
 
 # GoF Design Patterns
 
