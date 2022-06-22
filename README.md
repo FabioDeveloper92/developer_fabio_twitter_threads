@@ -89,6 +89,7 @@ Some of the design principles that have helped me to better understand the codin
 | Classic | KISS |	https://twitter.com/developer_fabio/status/1476253329655279621 |
 | Classic | SOC |	https://twitter.com/developer_fabio/status/1491457905492893697 |
 | Classic | SOLID | https://twitter.com/developer_fabio/status/1483849344419831812 |
+| Classic | SLAP | https://twitter.com/developer_fabio/status/1539633819719983105 |
 | Classic | TDA	| https://twitter.com/developer_fabio/status/1486386134666170368 |
 | Classic | YAGNI | https://twitter.com/developer_fabio/status/1478788134578135049 |
 | Classic | Yield	| https://twitter.com/developer_fabio/status/1468634840816033794 |
