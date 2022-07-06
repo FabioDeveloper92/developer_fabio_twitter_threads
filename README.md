@@ -63,6 +63,7 @@ I have been working with C # for some years now, I have always tried to deepen i
 | Basic | Generic Class | https://twitter.com/developer_fabio/status/1461397583126011914 |
 |     Basic      |    Struct      |  https://twitter.com/developer_fabio/status/1488927775046184966 |
 |     Basic      |     Record     |  https://twitter.com/developer_fabio/status/1493992215961608198 |
+|     Basic      |     Try Catch Statement     | https://twitter.com/developer_fabio/status/1544703909322784769  |
 |     Intermediate      |     Yield     |  https://twitter.com/developer_fabio/status/1468634825271779338 |
 | Intermediate | Memory Cache | https://twitter.com/developer_fabio/status/1466471264458002444 |
 
