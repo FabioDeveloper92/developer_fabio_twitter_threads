@@ -27,6 +27,7 @@ Sql is one of those skills that I studied right away, and that I have cultivated
 | Locking | Locking Intro |https://twitter.com/developer_fabio/status/1472558868274331651 |
 | Locking | SQL Conversions Lock | https://twitter.com/developer_fabio/status/1541026543471919106 |
 | Locking | SQL Intent Lock | https://twitter.com/developer_fabio/status/1520720264123850754 |
+| Locking | SQL Lock Escalation | https://twitter.com/developer_fabio/status/1551174358286188551 |
 |     Pattern      |    Array table     | https://twitter.com/developer_fabio/status/1487755952816373766  |
 |     Pattern      |    Lookup Table      | https://twitter.com/developer_fabio/status/1485238789761032194  |
 | Pattern | Star Schema | https://twitter.com/developer_fabio/status/1477619017393262592 |
