@@ -53,6 +53,7 @@ Design patterns are a common vocabulary for talking about software solutions. A 
 | Behavioral | Mediator Pattern | https://twitter.com/developer_fabio/status/1549772260881223680 |
 | Behavioral | Memento Pattern | https://twitter.com/developer_fabio/status/1570075846274322434 |
 | Behavioral | Observer Pattern | https://twitter.com/developer_fabio/status/1575507727056617472 |
+| Behavioral | State Pattern | https://twitter.com/developer_fabio/status/1584931000424939520 |
 | Creational | Abstract Factory | https://twitter.com/developer_fabio/status/1496528493466853393 |
 | Creational | Builder Pattern | https://twitter.com/developer_fabio/status/1552315596271935488 |
 | Creational | Factory Method | https://twitter.com/developer_fabio/status/1504135125734510598 |
