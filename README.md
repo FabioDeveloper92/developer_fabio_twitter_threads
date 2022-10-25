@@ -1,6 +1,6 @@
 # Twitter Threads
 
-<img src="https://pbs.twimg.com/profile_banners/1372296016544862216/1642612754/1500x500" alt="Developer Fabio Twitter Header" title="My talks">
+<img src="https://github.com/FabioDeveloper92/FabioDeveloper92/blob/main/twitter_header.png?raw=true" alt="Developer Fabio Twitter Header" title="My talks">
 
 An archive to gather all my threads through out my journey on twitter. Great pieces of content about .NET, SQL and my day to day learnings.
 
