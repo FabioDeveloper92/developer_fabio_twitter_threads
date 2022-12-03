@@ -80,6 +80,7 @@ Challenges are very important in the life of a programmer, and thinking I can ta
 
 | Category | Title | Link |
 | ------------- | ------------- | -------- |
+| API Docs | Intro .NET Swagger      | https://twitter.com/developer_fabio/status/1599030715512852480 |
 | Dependency Injection | Dependency Injection |	https://twitter.com/developer_fabio/status/1463564534103351299 |
 | Dependency Injection  | Dependency Injection Lifetime |	https://twitter.com/developer_fabio/status/1499062052446519303 |
 | Migration | FluentMigrator Framework | https://twitter.com/developer_fabio/status/1519331675364278272 |
