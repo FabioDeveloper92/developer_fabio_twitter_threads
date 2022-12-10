@@ -60,6 +60,7 @@ Design patterns are a common vocabulary for talking about software solutions. A 
 | Structural | Adapter | https://twitter.com/developer_fabio/status/1511728731907371011 |
 | Structural | Bridge Pattern | https://twitter.com/developer_fabio/status/1521874506918281217 |
 | Structural | Composite Pattern | https://twitter.com/developer_fabio/status/1578045912991014914 |
+| Structural | Decorator Patter | https://twitter.com/developer_fabio/status/1601573616931725313 |
 
 # C Sharp
 
